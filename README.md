@@ -28,18 +28,18 @@ Step into our playground – a dynamic space where you can explore and test a my
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/custom-chatbot-project.git
-    cd custom-chatbot-project
+    git clone https://github.com/jayaharisai/Customer-Support-Chat-bot.git
+    cd Customer-Support-Chat-bot
     ```
 
 2. Install necessary dependencies:
     ```bash
-    npm install
+    pip3 install -r requirements.txt
     ```
 
 3. Start the application:
     ```bash
-    npm start
+    streamlit run app.py
     ```
 
 ### Configuration
@@ -52,12 +52,7 @@ Step into our playground – a dynamic space where you can explore and test a my
 - Use the interactive controls to refine the responses to your specific needs.
 
 ## Contributing
-We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions from the community!
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- Thanks to [OpenAI](https://www.openai.com/) for providing the API that powers our chatbot.
-- Special thanks to all contributors and users for their support and feedback.
 
